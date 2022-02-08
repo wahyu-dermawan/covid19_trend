@@ -1,2 +1,1 @@
-# covid19_trend
-General analysis of COVID-19 pandemic data.
+You can access the visualization here https://public.tableau.com/shared/SM263M4R4?:display_count=n&:origin=viz_share_link
